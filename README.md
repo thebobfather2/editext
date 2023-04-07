@@ -1,4 +1,4 @@
-# Just Another Text Editor
+# Editext
 ![MIT](https://img.shields.io/badge/license-mit-blue)
 ## Table of Contents
 - [Description](#description)
@@ -17,7 +17,7 @@ Run "npm run start" and then access the text editor at http://localhost:3000/
 ### Contribution
 Bryan Pike
 ### Deployed Link
-N/A
+https://justanothertexteditorbp.herokuapp.com/
 ### Tests
 N/A
 ### Contact
